@@ -1,7 +1,9 @@
 ## Aim: 
 Introduction to Python
 ## Theory:
-Python uses the print() function to display output to the console.   Variables act as named containers for storing data values, such as numbers or text, and are created the moment you assign a value to them using the = operator.   Python is dynamically typed, meaning you don't need to declare the data type explicitly.  
+Python uses the print() function to display output to the console.      
+Variables act as named containers for storing data values, such as numbers or text, and are created the moment you assign a value to them using the = operator.       
+Python is dynamically typed, meaning you don't need to declare the data type explicitly.     
 ## Algorithm:
     1)Start the program.
     2)Assign a value (string or number) to a specific variable name.
